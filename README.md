@@ -1,4 +1,4 @@
-<h1 align="center">Poke-API</h1>
+<h1 align="center">Poke-Front</h1>
 
 
 ## 💻 Sobre o projeto
